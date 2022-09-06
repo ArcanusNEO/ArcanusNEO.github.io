@@ -8,6 +8,9 @@ theme:
     scheme: preference
     primary: blue grey
   language: "zh"
+  icon:
+    logo: material/candelabra
+  favicon: favicon.svg
   features:
     - search.suggest
     - search.highlight
