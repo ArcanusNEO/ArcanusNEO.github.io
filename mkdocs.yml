@@ -1,1 +1,5 @@
-site_name: blog.transcliff.top
+site_name: Transcliff
+site_url: blog.transcliff.top
+repo_url: ArcanusNEO.github.io
+docs_dir: src
+site_dir: docs
