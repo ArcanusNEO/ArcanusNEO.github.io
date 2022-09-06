@@ -4,6 +4,9 @@ docs_dir: src
 site_dir: site
 theme:
   name: material
+  palette:
+    scheme: preference
+    primary: blue grey
   language: "zh"
   features:
     - search.suggest
