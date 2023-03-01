@@ -1,6 +1,6 @@
 # FinalShell 导出密码解密
 
-使用下面 Java 程序可以解密，`TVE5YhZeGxyOCxxxxxxCUAnkVWgAeJ3L` 替换为实际密文
+使用下面 Java 程序可以解密，`TVE5YhZeGxyOCxxxxxxCUAnkVWgAeJ3L` 替换为实际密文。
 
 [在线 Java 编译器](https://c.runoob.com/compile/10/)
 
