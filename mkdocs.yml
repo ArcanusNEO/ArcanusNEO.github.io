@@ -40,4 +40,5 @@ nav:
   - 主页: index.md
   - 手册:
       - FinalShell 导出密码解密: finalshell-password.md
+      - Arch Linux 上使用 Navicat: navicat-for-arch.md
   - 关于: about.md
