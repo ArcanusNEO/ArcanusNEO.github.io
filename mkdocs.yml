@@ -39,5 +39,5 @@ copyright: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/
 nav:
   - 主页: index.md
   - 手册:
-      - FinalShell导出密码解密: finalshell-password.md
+      - FinalShell 导出密码解密: finalshell-password.md
   - 关于: about.md
